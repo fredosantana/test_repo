@@ -1,0 +1,41 @@
+html {
+  background-color: #00539F;
+}
+
+.intro {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #FF9500;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+
+.intro h1{
+  font-family: 'Acme', sans-serif;
+  font-size: 60px;
+  margin: 0;
+  padding: 20px 0;    
+  color: #00539F;
+  text-shadow: 3px 3px 1px black;
+}
+
+.intro p, li {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+.intro a {
+  text-decoration: none;
+}
+
+.intro a:hover {
+  color: red;
+}
+
+.pic {
+  display: block;
+  margin: auto;
+  width: 65%;
+}
